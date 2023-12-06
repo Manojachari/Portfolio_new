@@ -6,24 +6,6 @@
 /* Variables */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;900&display=swap');
 
-:root {
-    --primary: #80ff00;
-    --normal: #ffffff;
-    --black: #13131a;
-    --bg: #0c1013;
-    --danger: #f75842;
-    --border: 0.1rem solid rgba(255, 255, 255, 0.3);
-
-
-    --container-width-lg: 80%;
-    --container-width-md: 90%;
-    --container-width-sm: 94%;
-}
-
-:root {
-    --header-height: 3rem;
-    --font-semi: 600;
-}
 
 /* Colors */
 
@@ -431,7 +413,7 @@ img {
 /* Footer */
 .footer {
     background-color: var(--second-color);
-    color: #fff;
+    color: white;
     text-align: center;
     font-weight: var(--font-semi);
     padding: 2rem 0;
